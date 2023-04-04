@@ -1,3 +1,5 @@
+![CI](https://github.com/kirill7400/events-hw/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
